@@ -1,4 +1,4 @@
-branch_name = "westville"
+branch_name = "Westville"
 staff_count =15
 today_date ="28 august 2026"
 
